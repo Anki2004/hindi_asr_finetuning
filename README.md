@@ -17,12 +17,6 @@ All four problems are solved inside a **single Jupyter notebook** with step-by-s
 
 ---
 
-## Notebook
-
-> **[Click here to open the notebook](_paste your notebook link here_)**
-
----
-
 ## Project Structure
 
 The notebook is divided into four self-contained sections, one for each question.
@@ -71,7 +65,6 @@ Then open the notebook and run all cells from top to bottom. Each section is ind
 | Whisper-small (pretrained baseline) | ~55–65% |
 | Whisper-small (fine-tuned on ~10h Hindi) | ~30–40% |
 
-*(Fill in exact numbers after running the notebook)*
 
 ---
 
@@ -88,4 +81,4 @@ The lattice WER uses a **3/5 majority threshold** because anything above 50% mea
 ## Author
 
 **Ankit** — B.Tech Information Technology, MSIT Delhi (2026)
-Reach me on [LinkedIn](https://linkedin.com/in/your-profile) or at your@email.com
+Reach me on [LinkedIn](https://www.linkedin.com/in/ankit082004/) or at ankitsharma082004@email.com
